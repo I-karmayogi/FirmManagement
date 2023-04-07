@@ -9,8 +9,8 @@ Tool for authority of the firm to check the transactions are gonna be completed 
 
 ## Authors
 
-- [Priyanshu Sharma](https://www.github.com/)
+- [Priyanshu Sharma](https://www.github.com/PriyanshuSharma0222)
 - [Raghvan Pareek](https://www.github.com/I-karmayogi)
 - [Swammy](https://www.github.com/)
-- [Rahil Godha](https://www.github.com/)
+- [Rahil Godha](https://www.github.com/RahilGodha)
 
